@@ -104,6 +104,7 @@ tmp
 dist
 data
 ssl
+config/config.json
 
 # Files to ignore #
 #####################
