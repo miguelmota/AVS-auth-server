@@ -1,0 +1,12 @@
+{
+  "port": 9745,
+  "clientId": "<clientId>",
+  "clientSecret": "<clientSecret>",
+  "redirectUrl": "https://localhost:9745/authresponse",
+  "lwaRedirectHost": "amazon.com",
+  "lwaApiHost": "api.amazon.com",
+  "validateCertChain": true,
+  "products": {
+      "<deviceId>": ["<serialNumber>"]
+  }
+}

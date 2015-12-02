@@ -1,0 +1,12 @@
+{
+  "port": 9745,
+  "clientId": "amzn1.application-oa2-client.696ab90fc5844fdbb8efc17394a79c00",
+  "clientSecret": "1e3a306483c78510d4cdeb08e0a522f7ec3c1629ae1d53c325bfc3e95d80c0d3",
+  "redirectUrl": "https://localhost:9745/authresponse",
+  "lwaRedirectHost": "amazon.com",
+  "lwaApiHost": "api.amazon.com",
+  "validateCertChain": true,
+  "products": {
+      "my_device": ["1234567"]
+  }
+}
